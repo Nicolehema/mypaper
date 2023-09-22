@@ -1,4 +1,4 @@
-# mypaper
+# A paper on software carpentreology
 My first paper! Software carpentreology with git!
 
 ### Authors
